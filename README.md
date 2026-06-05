@@ -54,7 +54,8 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KalpeshPatel06&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KalpeshPatel06&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ---
 
