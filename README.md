@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kalpesh Patel
 
-### 💻 Software Developer | 🌐 Full-Stack Developer | ☁️ Aspiring DevOps & Cloud Engineer
+### 💻 Software Engineer | 🌐 Full-Stack Developer | ☁️ Aspiring DevOps & Cloud Engineer
 
 Passionate about building scalable web applications, solving real-world problems, and continuously learning new technologies. Currently focusing on Full-Stack Development, DevOps practices, Cloud Computing, and System Design.
 
@@ -43,42 +43,13 @@ Passionate about building scalable web applications, solving real-world problems
 
 ---
 
-## 📈 GitHub Stats
-
-![Kalpesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalpeshPatel06&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshPatel06&layout=compact&theme=tokyonight)
-
----
-
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KalpeshPatel06&theme=tokyonight)](https://git.io/streak-stats)
-
-
----
-
-## 🌟 Featured Projects
-
-### 🛒 E-Commerce Web Application
-A complete online shopping platform featuring authentication, product catalog, cart management, payment integration, order tracking, and admin dashboard.
-
-### 📋 To-Do Application
-Productivity-focused task management application with categories, priorities, progress tracking, search, and filtering.
-
-### 🌐 Portfolio Website
-Modern responsive portfolio showcasing projects, skills, and professional experience.
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalpesh-patel-kvrp/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](YOUR_PORTFOLIO_URL) -->
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:patelkalpesh060201@gmail.com)
 
 ---
 
