@@ -45,9 +45,9 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 📈 GitHub Stats
 
-![Kalpesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Kalpesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalpeshPatel06&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshPatel06&layout=compact&theme=tokyonight)
 
 ---
 
