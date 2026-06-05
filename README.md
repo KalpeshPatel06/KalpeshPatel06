@@ -53,7 +53,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalpeshPatel06&theme=tokyonight)
 
 ---
 
