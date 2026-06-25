@@ -16,44 +16,44 @@ Passionate about building scalable web applications, solving real-world problems
 - 🤝 Open to collaboration on exciting projects
 
 ---
-
-## 💻 Programming Languages
+## 🛠️ Tech Stack
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp" />
 </p>
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
 </p>
 
-## 🎨 Frontend Development
+### 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-## ⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
-
-
-## 🧰 Tools
+### 🧰 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,maven" />
 </p>
+
+---
 
 ## 📫 Connect With Me
 
