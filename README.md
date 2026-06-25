@@ -23,6 +23,12 @@ Passionate about building scalable web applications, solving real-world problems
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cs,cpp" />
 </p>
 
+## ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
+</p>
+
 ## 🎨 Frontend Development
 
 <p>
@@ -41,11 +47,7 @@ Passionate about building scalable web applications, solving real-world problems
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
-## ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux" />
-</p>
 
 ## 🧰 Tools
 
