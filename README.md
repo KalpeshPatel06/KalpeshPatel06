@@ -57,9 +57,7 @@ Passionate about building scalable web applications, solving real-world problems
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalpesh-patel-kvrp/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://kalpesh-patel-portfolio2026.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kalpesh-patel-kvrp/) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome)](https://kalpesh-patel-portfolio2026.vercel.app/)
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:patelkalpesh060201@gmail.com)
 
