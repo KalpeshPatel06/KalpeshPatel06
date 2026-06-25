@@ -54,7 +54,6 @@ Passionate about building scalable web applications, solving real-world problems
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,postman,maven" />
 </p>
----
 
 ## 📫 Connect With Me
 
